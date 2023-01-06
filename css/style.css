@@ -18,3 +18,34 @@ h3 {
     color: #66BFBF;
 
 }
+
+img:hover {
+    background-color: gold;
+}
+ /*Class Selector*/
+.avatar1 {
+    background-color: green;
+}
+
+.avatar2 {
+    background-color: red;
+}
+
+/*ID Selector*/
+
+#heading {
+    color: blue;
+}
+
+#test {
+    font-size: 200px;
+    color: red;
+}
+
+#test:hover {
+    color: green;
+}
+
+#1:focus {
+    color: lightblue;
+}
